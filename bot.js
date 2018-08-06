@@ -36,4 +36,4 @@ client.on("guildMemberAdd", member => {
 **`) 
 }).catch(console.error)
 })
-client.login('توكين');
+client.login('BOT_TOKEN');
