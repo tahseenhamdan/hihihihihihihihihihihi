@@ -10,9 +10,10 @@ console.log("Welcome Again !");
 سلام عليكم يا قلبي 
 افضل سيرفر دسكورد
 تلاقي فيه بنات يتكلمون صوت
-بنات ب الرومتن الصوتيه يعطوك بوسات
-ادخل روم و قول ع
-                               [ https://discord.gg/6nRGEKS ] 
+بنات ب الرومات الصوتيه يعطوك بوسات
+ادخل روم و قول تجيك بوسه
+
+[ https://discord.gg/KJKNjup ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -23,9 +24,14 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
+
 سلام عليكم يا قلبي 
-لو سمحت طالبق طلب تكقا ادخل السيرفر
-                               [ https://discord.gg/6nRGEKS] 
+افضل سيرفر دسكورد
+تلاقي فيه بنات يتكلمون صوت
+بنات ب الرومات الصوتيه يعطوك بوسات
+ادخل روم و قول تجيك بوسه
+
+                               [ https://discord.gg/KJKNjup ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
