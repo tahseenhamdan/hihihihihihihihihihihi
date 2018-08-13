@@ -6,14 +6,12 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-سلام عليكم يا قلبي 
-افضل سيرفر دسكورد
-تلاقي فيه بنات يتكلمون صوت
-بنات ب الرومات الصوتيه يعطوك بوسات
-ادخل روم و قول تجيك بوسه
+**سلام عليكم يا قلبي 
+جبت لكم افضل سيرفر سوالف 
+تنورنا يحلو
+love you
 
-[ https://discord.gg/KJKNjup ] 
+[ https://discord.gg/RCgBy3n ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -32,7 +30,7 @@ client.on("guildMemberAdd", member => {
 
 ادخل روم و قول تجيك بوسه
 
-                               [ https://discord.gg/KJKNjup ] 
+                               [ https://discord.gg/RCgBy3n] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
