@@ -12,8 +12,8 @@ console.log("Welcome Again !");
 تنورنا يحلو
 love you
 
-                               [ https://discord.gg/Cn5RSea J
-] 
+                               [ https://discord.gg/Cn5RSea ]
+ 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -29,8 +29,8 @@ client.on("guildMemberAdd", member => {
 تنورنا يحلو
 love you
 
-                               [https://discord.gg/Cn5RSea 
- ] 
+                               [https://discord.gg/Cn5RSea ]
+  
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
