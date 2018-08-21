@@ -12,7 +12,7 @@ console.log("Welcome Again !");
 تنورنا يحلو
 love you
 
-                               [ https://discord.gg/qAMVcRJ
+                               [ https://discord.gg/Cn5RSeaJ
 ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -29,7 +29,7 @@ client.on("guildMemberAdd", member => {
 تنورنا يحلو
 love you
 
-                               [ https://discord.gg/qAMVcRJ
+                               [https://discord.gg/Cn5RSeaJ
  ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
