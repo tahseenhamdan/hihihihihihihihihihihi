@@ -7,12 +7,12 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 
-**سلام عليكم يا قلبي 
-جبت لكم افضل سيرفر سوالف 
-تنورنا يحلو
-love you
+**
+سلام عليكم يا قلبي 
+حياك بيننا و بياك :kissing_heart:
+تنورنا يعسل
 
-                               [ https://discord.gg/Cn5RSea ]
+                               [ https://discord.gg/BRnFcMF ]
  
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -25,11 +25,11 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم يا قلبي 
-جبت لكم افضل سيرفر سوالف 
-تنورنا يحلو
-love you
+حياك بيننا و بياك :kissing_heart:
+تنورنا يعسل
 
-                               [https://discord.gg/Cn5RSea ]
+
+                               [https://discord.gg/BRnFcMF ]
   
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
